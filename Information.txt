@@ -1,0 +1,25 @@
+About Me
+I'm a passionate web developer with experience in creating dynamic and responsive websites using HTML, CSS, and JavaScript. My journey in web development started with a deep interest in coding and design, which has allowed me to develop a strong understanding of front-end technologies. I am committed to continuous learning and enjoy solving complex problems with simple and effective solutions.
+Skills
+HTML: Proficient in writing clean and semantic HTML5 code, ensuring accessibility and SEO-friendly practices.
+CSS: Skilled in modern CSS techniques like Flexbox and Grid, and experienced in creating responsive designs using media queries.
+JavaScript: Strong understanding of JavaScript, including ES6+ features, DOM manipulation, event handling, and asynchronous programming with promises and async/await.
+Version Control: Familiar with Git for version control and collaboration.
+Frameworks & Libraries: Experience with frameworks like React.js for building interactive and dynamic web applications.
+Projects
+Portfolio Website
+A fully responsive personal portfolio built with HTML, CSS, and JavaScript. It includes a clean design with a focus on showcasing my skills, projects, and contact information.
+Technologies used: HTML, CSS, JavaScript
+
+Weather App
+A JavaScript-based weather application that fetches real-time weather data from an API and displays it for a selected city.
+Technologies used: HTML, CSS, JavaScript, API Integration
+
+To-Do List
+A dynamic to-do list built with JavaScript, allowing users to add, edit, and delete tasks. The app saves tasks to local storage.
+Technologies used: HTML, CSS, JavaScript
+
+Contact Information
+Email: vaibhavrbhise@gmail.com
+LinkedIn: https://www.linkedin.com/in/vaibhav-bhise-92624a228/\
+GitHub: https://github.com/vaibhavbhise007
